@@ -73,3 +73,9 @@ Use the search bar to search that student and their results will show
 
 
 
+
+## Student report card 
+***Shows the student details and the results***
+
+
+![image](https://github.com/user-attachments/assets/22312c2a-f363-4db1-92ad-b4b12202d165)
